@@ -1,5 +1,5 @@
-# MazeGenerator
-Simple maze generator in Python using PyQt5
+# MazeMaker
+Simple maze generator with Recursive Backtracking and Hunt and Kill algorithms in Python using PyQt5
 
  <img src="https://github.com/ransaked1/MazeGenerator/blob/master/MazeMaker.png" width="490" height="350">
 
