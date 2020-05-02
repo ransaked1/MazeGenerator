@@ -1,7 +1,7 @@
 # MazeGenerator
 Simple maze generator in Python using PyQt5
 
-![](https://github.com/ransaked1/MazeGenerator/blob/master/MazeMaker.png)
+ <img src="https://github.com/ransaked1/MazeGenerator/blob/master/MazeMaker.png" width="490" height="350">
 
 ## Getting Started
 
